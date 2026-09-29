@@ -23,7 +23,7 @@ I'm a software developer focused on **Java Backend Development** with a strong i
 * 🔹 Experienced with **REST APIs, relational databases, Docker, and Git**
 * 🔹 Interested in **authentication, authorization, and backend security**
 * 🔹 Interested in **scalable and maintainable system design**
-* 🔹 Open to **Java Backend Internship / Fresher opportunities**
+  
 
 ---
 
